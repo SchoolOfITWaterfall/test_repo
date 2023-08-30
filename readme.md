@@ -3,7 +3,11 @@ Hi, it is Mr. H.
 I know you love me.
 
 
-This is the third line.
+<<<<<<< HEAD
+This is the third line in main.
 
 
 new Branch data starts here.
+=======
+This is the third line in main.
+>>>>>>> main
